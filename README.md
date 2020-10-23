@@ -1,5 +1,7 @@
 # smarket
 
+Personal project
+
 Files used in learning SQL server, SQLite, Tableau
 
 csv - the csv documents used for structuring data, "smarket.csv" is the initial raw data, "smarket_new.csv" is the final data stored in database, which includes predictions from the regression models
